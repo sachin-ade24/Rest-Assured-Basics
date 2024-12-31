@@ -38,8 +38,5 @@ public class StaticImportTest {
 		      .body("data[0].id", equalTo(7))
 		      .log()
 		      .all();
-
-		
 	}
-	
 }
