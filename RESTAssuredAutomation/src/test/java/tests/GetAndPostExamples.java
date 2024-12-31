@@ -63,20 +63,4 @@ public class GetAndPostExamples {
 	        body();
 	    	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
